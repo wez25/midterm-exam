@@ -1,0 +1,39 @@
+body{
+	background-image: url('bg3.jpg');
+	background-size: 100%;
+	background-position: center;
+}
+
+div {
+  color: red;
+
+  width: 300px;
+  margin: auto;
+  border: 2px solid red;
+
+}
+
+p {
+	color: lightblue;
+	font-size: 50px;
+
+}
+
+h2 {
+	color: violet;
+	font-size: 40px;
+}
+
+
+.main1
+{
+color:white;
+background-color:dimgrey;
+ width: 700px;
+ height: 300px;
+font-size:20px;
+overflow:scroll;
+
+padding:20px 50px 50px 50px;
+
+}

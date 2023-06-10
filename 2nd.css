@@ -1,0 +1,13 @@
+body{
+	background-image: url('2ndbg.WEBP');
+	background-size: 100%;
+	background-position: center;
+}
+
+
+p {
+	color: yellowgreen;
+	font-size: 50px;
+	text-anchor: middle;
+	text-shadow: rgb(1, 2, 3);
+}
